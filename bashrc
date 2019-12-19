@@ -84,7 +84,6 @@ fi
 alias ll='ls -alth'
 #alias la='ls -A'
 #alias l='ls -CF'
-alias ssh1='ssh -i ~/.ssh/myAws.pem ubuntu@3.136.4.239'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
